@@ -1,0 +1,50 @@
+ody {
+    font-family: sans-serif;
+}
+header b{
+color: #000080;
+background-color: #00FF7F;
+margin: 10px;
+padding: 3px;
+}
+header a{
+    color: #008B8B;
+    background-color: #7FFFD4;
+}
+ h1{
+    color: #008080;
+    background-color: #7FFFD4;
+    border: 3px solid #000080;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+footer {
+color: #000080;
+background-color: #7FFFD4;
+
+    border: 3px solid #000080;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+nav {
+    color: #000080;
+    background-color: #B0E0E6;
+    border-radius: 10px;
+    border: 1px solid #162F4B;
+    padding: 2px;
+    margin: 2px;
+}
+
+nav a{
+    color: #000080;
+    background-color: #87CEEB;
+    border-radius: 50px;
+    border: 1px solid #162F4B;
+    font-size: 20px;
+}
+body{
+    color:#162F4B;
+   font-size: 30px;
+}
